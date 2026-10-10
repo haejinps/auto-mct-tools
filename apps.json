@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T12:03:06.237Z",
+  "updatedAt": "2026-10-10T12:14:49.976Z",
   "launcher": {
     "version": "1.0.0",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.0.0/AUTO-MCT-TOOLS-Setup-1.0.0.exe",
@@ -28,10 +28,10 @@
         "title": "파일 연결",
         "message": "STL, STEP, IGES, DXF 등 3D · CAD 파일을 더블클릭하면 Auto 3D Viewer 로 열리도록 연결할까요?\n\n이미 다른 CAD 프로그램으로 열던 파일도 Auto 3D Viewer 로 열립니다. (프로그램을 삭제하면 원래대로 돌아갑니다)"
       },
-      "version": "0.1.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v0.1.0/Auto-3D-Viewer-Setup-0.1.0.exe",
-      "sha256": "3b34d673dc2d5e40d723a408886c5634edb035ddc9a5779732b6b6aacad2df0c",
-      "size": 101328014
+      "version": "1.0.0",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.0.0/Auto-3D-Viewer-Setup-1.0.0.exe",
+      "sha256": "7be8372c9d12ae43f0f693ca11652c8ceabe53afa488561ab7407bfe628571ea",
+      "size": 101330961
     },
     {
       "id": "facemill",

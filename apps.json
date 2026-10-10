@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T14:22:46.370Z",
+  "updatedAt": "2026-10-10T11:50:42.074Z",
   "launcher": {
     "version": "1.0.0",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.0.0/AUTO-MCT-TOOLS-Setup-1.0.0.exe",
@@ -13,10 +13,10 @@
       "name": "Auto NC Viewer",
       "description": "NC 프로그램 편집 · 백플롯 · 가공 시뮬레이션",
       "exe": "Auto NC Viewer.exe",
-      "version": "1.1.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.1.0/Auto-NC-Viewer-Setup-1.1.0.exe",
-      "sha256": "a4de7b730eca6abb8c1ad44c4bdc01b22dc88c6a91e5bb4b1d6e9ae9d780f242",
-      "size": 96045898
+      "version": "1.2.0",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.2.0/Auto-NC-Viewer-Setup-1.2.0.exe",
+      "sha256": "ddecf2cb674e794d39b9d3a5950647c779fb9fe50ad65154e76bbfaad649ce7e",
+      "size": 96046608
     },
     {
       "id": "3d-viewer",

@@ -1,23 +1,13 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T11:12:56.009Z",
+  "updatedAt": "2026-10-11T11:29:48.760Z",
   "launcher": {
-    "version": "1.0.0",
-    "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.0.0/AUTO-MCT-TOOLS-Setup-1.0.0.exe",
-    "sha256": "12d126210bf4c9b9401032a085eb7e5469da3ca20c1dc7014216865485557349",
-    "size": 80925179
+    "version": "1.1.0",
+    "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.1.0/AUTO-NC-TOOLS-Setup-1.1.0.exe",
+    "sha256": "16bd029bff745c152d83de9b9e487c394507048a0a3617db8376bc2f47e7941e",
+    "size": 80924945
   },
   "apps": [
-    {
-      "id": "nc-viewer",
-      "name": "Auto NC Viewer",
-      "description": "NC 프로그램 편집 · 백플롯 · 가공 시뮬레이션",
-      "exe": "Auto NC Viewer.exe",
-      "version": "1.3.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.3.0/Auto-NC-Viewer-Setup-1.3.0.exe",
-      "sha256": "6a0148feaf4a5db7d7b85f3ce4019ed75f5d4d7cd2048ca8622a1a6bdd66770d",
-      "size": 96057586
-    },
     {
       "id": "3d-viewer",
       "name": "Auto 3D Viewer",
@@ -28,30 +18,40 @@
         "title": "파일 연결",
         "message": "STL, STEP, IGES, DXF 등 3D · CAD 파일을 더블클릭하면 Auto 3D Viewer 로 열리도록 연결할까요?\n\n이미 다른 CAD 프로그램으로 열던 파일도 Auto 3D Viewer 로 열립니다. (프로그램을 삭제하면 원래대로 돌아갑니다)"
       },
-      "version": "1.1.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.1.0/Auto-3D-Viewer-Setup-1.1.0.exe",
-      "sha256": "305489a8a9ca14e7eee2c19ff1b6e84df23cef83f89f203f2448152ff4826070",
-      "size": 101349717
+      "version": "1.1.1",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.1.1/Auto-3D-Viewer-Setup-1.1.1.exe",
+      "sha256": "7de7cc1533a3442c0ca45214496fe76a0195e93d10f0f9fe209e887f6ef4530b",
+      "size": 101349783
+    },
+    {
+      "id": "nc-viewer",
+      "name": "Auto NC Viewer",
+      "description": "NC 프로그램 편집 · 백플롯 · 가공 시뮬레이션",
+      "exe": "Auto NC Viewer.exe",
+      "version": "1.3.1",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.3.1/Auto-NC-Viewer-Setup-1.3.1.exe",
+      "sha256": "c1ff70514bce613562c6761625f0adfa528e30f107945d1525c996a5240fa77e",
+      "size": 96057519
     },
     {
       "id": "facemill",
       "name": "Auto FaceMill",
       "description": "페이스밀 · 외곽 각치기 · 오픈포켓 NC 자동 생성",
       "exe": "Auto FaceMill.exe",
-      "version": "1.2.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.2.0/Auto-FaceMill-Setup-1.2.0.exe",
-      "sha256": "53a2fe92266190bfac1f3d8ed418dd8d5ccbf97bdc77abac652098cfafabe9ee",
-      "size": 9102800
+      "version": "1.2.1",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.2.1/Auto-FaceMill-Setup-1.2.1.exe",
+      "sha256": "13748ab564aadabced31a26eb1dc5649b035501bd70ee8c6d299a23cdb4b4279",
+      "size": 9104458
     },
     {
       "id": "drill",
       "name": "Auto Drill",
       "description": "DXF / DWG 도면에서 원 선택 → 드릴 NC 자동 생성",
       "exe": "Auto Drill.exe",
-      "version": "1.2.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.2.0/Auto-Drill-Setup-1.2.0.exe",
-      "sha256": "35eafd9522fe51a59852b50ed4df964a4689441b830b972e19295f9fe06c6df1",
-      "size": 42108752
+      "version": "1.2.1",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.2.1/Auto-Drill-Setup-1.2.1.exe",
+      "sha256": "f137d8e54d9996f0fed52148e76786e0a79a363cb3214aa97f1ca7c580bf52c3",
+      "size": 42400180
     }
   ]
 }

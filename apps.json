@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T14:35:06.588Z",
+  "updatedAt": "2026-10-17T15:36:01.329Z",
   "launcher": {
     "version": "1.1.0",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.1.0/AUTO-NC-TOOLS-Setup-1.1.0.exe",
@@ -18,10 +18,10 @@
         "title": "파일 연결",
         "message": "STL, STEP, IGES, DXF 등 3D · CAD 파일을 더블클릭하면 Auto 3D Viewer 로 열리도록 연결할까요?\n\n이미 다른 CAD 프로그램으로 열던 파일도 Auto 3D Viewer 로 열립니다. (프로그램을 삭제하면 원래대로 돌아갑니다)"
       },
-      "version": "1.2.4",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.2.4/Auto-3D-Viewer-Setup-1.2.4.exe",
-      "sha256": "ba938b1923250a50e8205510db0c2b45de7bcc11d311e1fcb8cc463f1eb56e1a",
-      "size": 101358490
+      "version": "1.2.5",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.2.5/Auto-3D-Viewer-Setup-1.2.5.exe",
+      "sha256": "e3f92b7bded08da71679fabb3f44c809016dcb8efdab1f06b8070bd7687555f9",
+      "size": 101359799
     },
     {
       "id": "nc-viewer",

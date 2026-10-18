@@ -1,57 +1,69 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-17T15:52:40.843Z",
+  "updatedAt": "2026-10-18T11:48:55.933Z",
   "launcher": {
-    "version": "1.1.0",
-    "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.1.0/AUTO-NC-TOOLS-Setup-1.1.0.exe",
-    "sha256": "16bd029bff745c152d83de9b9e487c394507048a0a3617db8376bc2f47e7941e",
-    "size": 80924945
+    "version": "1.2.0",
+    "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.0/HAEJIN-NC-TOOLS-Setup-1.2.0.exe",
+    "sha256": "05d19505a27c55aa0a2bf390e27443e093f5bf9bbe8b7d171aad52e122383c78",
+    "size": 80925202
   },
   "apps": [
     {
       "id": "3d-viewer",
-      "name": "Auto 3D Viewer",
+      "name": "Shape-X",
+      "formerNames": [
+        "Auto 3D Viewer"
+      ],
       "description": "STL · STEP · IGES · DXF 3D 모델 뷰어",
-      "exe": "Auto 3D Viewer.exe",
+      "exe": "Shape-X.exe",
       "fileAssociation": {
         "arg": "/ASSOC",
         "title": "파일 연결",
-        "message": "STL, STEP, IGES, DXF 등 3D · CAD 파일을 더블클릭하면 Auto 3D Viewer 로 열리도록 연결할까요?\n\n이미 다른 CAD 프로그램으로 열던 파일도 Auto 3D Viewer 로 열립니다. (프로그램을 삭제하면 원래대로 돌아갑니다)"
+        "message": "STL, STEP, IGES, DXF 등 3D · CAD 파일을 더블클릭하면 Shape-X 로 열리도록 연결할까요?\n\n이미 다른 CAD 프로그램으로 열던 파일도 Shape-X 로 열립니다. (프로그램을 삭제하면 원래대로 돌아갑니다)"
       },
-      "version": "1.2.6",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.2.6/Auto-3D-Viewer-Setup-1.2.6.exe",
-      "sha256": "0f5d63559d19e6f5026331e9cbb0a825d1e243f69fc6f94e3ed96660c391dfab",
-      "size": 101320123
+      "version": "1.3.0",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.3.0/Shape-X-Setup-1.3.0.exe",
+      "sha256": "9d1853fd9018f70b18758320356db932f4430e2c50612a0ba6ce539d367958cc",
+      "size": 101319553
     },
     {
       "id": "nc-viewer",
-      "name": "Auto NC Viewer",
+      "name": "Toolpath-X",
+      "formerNames": [
+        "Auto NC Viewer"
+      ],
       "description": "NC 프로그램 편집 · 백플롯 · 가공 시뮬레이션",
-      "exe": "Auto NC Viewer.exe",
-      "version": "1.4.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.4.0/Auto-NC-Viewer-Setup-1.4.0.exe",
-      "sha256": "287ee444440603ae94369a2fc6c812dfb9db6d53fa759007ddb30ff1c105468e",
-      "size": 96061695
+      "exe": "Toolpath-X.exe",
+      "version": "1.5.0",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.5.0/Toolpath-X-Setup-1.5.0.exe",
+      "sha256": "c9cd1bd855768c13700da1dcf0c1c3b80072a3d0e9a1b9f47d1a33c54a074c54",
+      "size": 96061567
     },
     {
       "id": "facemill",
-      "name": "Auto FaceMill",
+      "name": "FaceMill-X",
+      "formerNames": [
+        "Auto FaceMill"
+      ],
       "description": "페이스밀 · 외곽 각치기 · 오픈포켓 NC 자동 생성",
-      "exe": "Auto FaceMill.exe",
-      "version": "1.2.2",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.2.2/Auto-FaceMill-Setup-1.2.2.exe",
-      "sha256": "3f9311b0211800f2d03023d1485b28d7e07e8b5aa37088ce7c2d60b22f93b32f",
-      "size": 9107041
+      "exe": "FaceMill-X.exe",
+      "version": "1.3.0",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.3.0/FaceMill-X-Setup-1.3.0.exe",
+      "sha256": "288de935ae495dcdfeacfb52b95e8ff16ac9e2ff2d69a71b4c6e0b433997a29f",
+      "size": 9109964
     },
     {
       "id": "drill",
-      "name": "Auto Drill",
+      "name": "Drilling-X",
+      "formerNames": [
+        "Auto Drill"
+      ],
       "description": "DXF / DWG 도면에서 원 선택 → 드릴 NC 자동 생성",
-      "exe": "Auto Drill.exe",
-      "version": "1.2.2",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.2.2/Auto-Drill-Setup-1.2.2.exe",
-      "sha256": "bbbb569199e79ad99ed943cd50ff4550c16b76003ecec45b9e61448ace4a7227",
-      "size": 42417820
+      "exe": "Drilling-X.exe",
+      "version": "1.3.0",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.3.0/Drilling-X-Setup-1.3.0.exe",
+      "sha256": "20b371d7c95b29a516c20c007951eba1d6f52a69686f1aae6482140c91fd94be",
+      "size": 42411753
     }
   ]
 }

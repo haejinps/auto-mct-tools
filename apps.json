@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-18T11:48:55.933Z",
+  "updatedAt": "2026-10-18T13:39:02.188Z",
   "launcher": {
     "version": "1.2.0",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.0/HAEJIN-NC-TOOLS-Setup-1.2.0.exe",
@@ -21,10 +21,10 @@
         "title": "파일 연결",
         "message": "STL, STEP, IGES, DXF 등 3D · CAD 파일을 더블클릭하면 Shape-X 로 열리도록 연결할까요?\n\n이미 다른 CAD 프로그램으로 열던 파일도 Shape-X 로 열립니다. (프로그램을 삭제하면 원래대로 돌아갑니다)"
       },
-      "version": "1.3.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.3.0/Shape-X-Setup-1.3.0.exe",
-      "sha256": "9d1853fd9018f70b18758320356db932f4430e2c50612a0ba6ce539d367958cc",
-      "size": 101319553
+      "version": "1.3.1",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.3.1/Shape-X-Setup-1.3.1.exe",
+      "sha256": "4c820636aa84d6d3a07dbdfcb03645fec062756c35a2f238e1088b4192a7b0c2",
+      "size": 101319712
     },
     {
       "id": "nc-viewer",

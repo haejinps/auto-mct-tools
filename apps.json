@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-18T14:31:37.701Z",
+  "updatedAt": "2026-10-18T14:40:13.013Z",
   "launcher": {
     "version": "1.2.0",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.0/HAEJIN-NC-TOOLS-Setup-1.2.0.exe",
@@ -34,10 +34,10 @@
       ],
       "description": "NC 프로그램 편집 · 백플롯 · 가공 시뮬레이션",
       "exe": "Toolpath-X.exe",
-      "version": "1.6.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.6.0/Toolpath-X-Setup-1.6.0.exe",
-      "sha256": "cfa5bb688cd13598c70a00ad6aabe4125a7e1183c6200697d701cdedd4ff66cc",
-      "size": 96067234
+      "version": "1.6.1",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.6.1/Toolpath-X-Setup-1.6.1.exe",
+      "sha256": "f4f1e4ec71ec6daffac91f7b68ecf98215435a280f6ccd2f547c69bc3e605b7f",
+      "size": 96068731
     },
     {
       "id": "facemill",

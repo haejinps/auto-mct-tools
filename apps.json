@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-19T13:20:37.649Z",
+  "updatedAt": "2026-10-19T13:32:10.278Z",
   "launcher": {
     "version": "1.2.0",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.0/HAEJIN-NC-TOOLS-Setup-1.2.0.exe",
@@ -43,16 +43,16 @@
     },
     {
       "id": "facemill",
-      "name": "FaceMill-X",
+      "name": "Auto FaceMill",
       "formerNames": [
-        "Auto FaceMill"
+        "FaceMill-X"
       ],
       "description": "페이스밀 · 외곽 각치기 · 오픈포켓 NC 자동 생성",
-      "exe": "FaceMill-X.exe",
-      "version": "1.3.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.3.0/FaceMill-X-Setup-1.3.0.exe",
-      "sha256": "288de935ae495dcdfeacfb52b95e8ff16ac9e2ff2d69a71b4c6e0b433997a29f",
-      "size": 9109964
+      "exe": "Auto FaceMill.exe",
+      "version": "1.3.1",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.3.1/Auto-FaceMill-Setup-1.3.1.exe",
+      "sha256": "206832ff15cc497b3b4c5853e8607d5060001d7725e2ca8f0e823235355f8992",
+      "size": 9107472
     },
     {
       "id": "drill",

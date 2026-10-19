@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-19T13:36:51.284Z",
+  "updatedAt": "2026-10-19T13:49:16.501Z",
   "launcher": {
-    "version": "1.2.0",
-    "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.0/HAEJIN-NC-TOOLS-Setup-1.2.0.exe",
-    "sha256": "05d19505a27c55aa0a2bf390e27443e093f5bf9bbe8b7d171aad52e122383c78",
-    "size": 80925202
+    "version": "1.2.1",
+    "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.1/Haejin-NC-Tools-Setup-1.2.1.exe",
+    "sha256": "177376478becb0f88ed9ce31231ac9f6b4c0b78285e7cf190b7c91ebdf684140",
+    "size": 80925697
   },
   "apps": [
     {

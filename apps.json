@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-19T13:32:10.278Z",
+  "updatedAt": "2026-10-19T13:36:51.284Z",
   "launcher": {
     "version": "1.2.0",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.0/HAEJIN-NC-TOOLS-Setup-1.2.0.exe",
@@ -56,16 +56,16 @@
     },
     {
       "id": "drill",
-      "name": "Drilling-X",
+      "name": "Auto Drill",
       "formerNames": [
-        "Auto Drill"
+        "Drilling-X"
       ],
       "description": "DXF / DWG 도면에서 원 선택 → 드릴 NC 자동 생성",
-      "exe": "Drilling-X.exe",
-      "version": "1.3.1",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.3.1/Drilling-X-Setup-1.3.1.exe",
-      "sha256": "bcb5de3343870812d05194640a47fb8a8c48f5ab28e1d36ca752df78c5fe5cf8",
-      "size": 42408838
+      "exe": "Auto Drill.exe",
+      "version": "1.3.2",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.3.2/Auto-Drill-Setup-1.3.2.exe",
+      "sha256": "5cbb9e977979abca3d03d1d2f9fe15fb67c7877f03e3afd1ef1a45bb76b205d6",
+      "size": 42409210
     }
   ]
 }

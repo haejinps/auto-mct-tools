@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-18T15:00:20.615Z",
+  "updatedAt": "2026-10-19T12:59:20.346Z",
   "launcher": {
     "version": "1.2.0",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.0/HAEJIN-NC-TOOLS-Setup-1.2.0.exe",
@@ -10,34 +10,36 @@
   "apps": [
     {
       "id": "3d-viewer",
-      "name": "Shape-X",
+      "name": "ShapeX-3D",
       "formerNames": [
+        "Shape-X",
         "Auto 3D Viewer"
       ],
       "description": "STL · STEP · IGES · DXF 3D 모델 뷰어",
-      "exe": "Shape-X.exe",
+      "exe": "ShapeX-3D.exe",
       "fileAssociation": {
         "arg": "/ASSOC",
         "title": "파일 연결",
-        "message": "STL, STEP, IGES, DXF 등 3D · CAD 파일을 더블클릭하면 Shape-X 로 열리도록 연결할까요?\n\n이미 다른 CAD 프로그램으로 열던 파일도 Shape-X 로 열립니다. (프로그램을 삭제하면 원래대로 돌아갑니다)"
+        "message": "STL, STEP, IGES, DXF 등 3D · CAD 파일을 더블클릭하면 ShapeX-3D 로 열리도록 연결할까요?\n\n이미 다른 CAD 프로그램으로 열던 파일도 ShapeX-3D 로 열립니다. (프로그램을 삭제하면 원래대로 돌아갑니다)"
       },
-      "version": "1.3.1",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.3.1/Shape-X-Setup-1.3.1.exe",
-      "sha256": "4c820636aa84d6d3a07dbdfcb03645fec062756c35a2f238e1088b4192a7b0c2",
-      "size": 101319712
+      "version": "1.4.0",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/3d-viewer-v1.4.0/ShapeX-3D-Setup-1.4.0.exe",
+      "sha256": "d83d9b852795ed7d74349399579519a2d37180777c7a8fe4915c744cebe62441",
+      "size": 101319604
     },
     {
       "id": "nc-viewer",
-      "name": "Toolpath-X",
+      "name": "NCX-Vision",
       "formerNames": [
+        "Toolpath-X",
         "Auto NC Viewer"
       ],
       "description": "NC 프로그램 편집 · 백플롯 · 가공 시뮬레이션",
-      "exe": "Toolpath-X.exe",
-      "version": "1.6.2",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.6.2/Toolpath-X-Setup-1.6.2.exe",
-      "sha256": "ba0bfdd337eaa8ca0ee1406867119cbd7d1888b1f0450fd7a6b3efb54344dc0e",
-      "size": 96069975
+      "exe": "NCX-Vision.exe",
+      "version": "1.7.0",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.7.0/NCX-Vision-Setup-1.7.0.exe",
+      "sha256": "ee8720c8c6af93cad31c2508379ed48dde5eea9c1cfa7ff3fea76a40cd46cca7",
+      "size": 96070149
     },
     {
       "id": "facemill",

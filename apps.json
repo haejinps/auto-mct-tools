@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-22T14:55:41.731Z",
+  "updatedAt": "2026-11-22T15:20:28.402Z",
   "launcher": {
     "version": "1.2.1",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.1/Haejin-NC-Tools-Setup-1.2.1.exe",
@@ -36,10 +36,10 @@
       ],
       "description": "NC 프로그램 편집 · 백플롯 · 가공 시뮬레이션",
       "exe": "NCX-Vision.exe",
-      "version": "1.7.0",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.7.0/NCX-Vision-Setup-1.7.0.exe",
-      "sha256": "ee8720c8c6af93cad31c2508379ed48dde5eea9c1cfa7ff3fea76a40cd46cca7",
-      "size": 96070149
+      "version": "1.7.1",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/nc-viewer-v1.7.1/NCX-Vision-Setup-1.7.1.exe",
+      "sha256": "e9668b8f1ff896642d7d2c2ebd324a5e7639eecc52a16f920d49a1f9cda6dd24",
+      "size": 96070532
     },
     {
       "id": "facemill",

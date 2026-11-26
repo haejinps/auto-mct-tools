@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-26T12:32:33.361Z",
+  "updatedAt": "2026-11-26T12:44:12.060Z",
   "launcher": {
     "version": "1.2.1",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.1/Haejin-NC-Tools-Setup-1.2.1.exe",
@@ -49,10 +49,10 @@
       ],
       "description": "페이스밀 · 외곽 각치기 · 오픈포켓 NC 자동 생성",
       "exe": "Auto FaceMill.exe",
-      "version": "1.5.3",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.5.3/Auto-FaceMill-Setup-1.5.3.exe",
-      "sha256": "4596c2b55697de89c4f5e0b76d6a5286d6a6382cfdc9e2ce61dc7914ad868b30",
-      "size": 9214393
+      "version": "1.5.4",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.5.4/Auto-FaceMill-Setup-1.5.4.exe",
+      "sha256": "498057953ad96187ff5f586e5157f9ac4d89a6cf314822d85beeb6ed6a9513de",
+      "size": 9214063
     },
     {
       "id": "drill",
@@ -62,10 +62,10 @@
       ],
       "description": "DXF / DWG 도면에서 원 선택 → 드릴 NC 자동 생성",
       "exe": "Auto Drill.exe",
-      "version": "1.5.2",
-      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.5.2/Auto-Drill-Setup-1.5.2.exe",
-      "sha256": "34acf9c78ca5292b0e136f2fe54539d6f659624c5b225541f95eabaca608b22c",
-      "size": 42504249
+      "version": "1.5.3",
+      "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.5.3/Auto-Drill-Setup-1.5.3.exe",
+      "sha256": "22bfd2c7d4f063723e4eeb59eb5d5adc25acb02a22a2e389c0287894fe6d91c3",
+      "size": 42509180
     }
   ]
 }

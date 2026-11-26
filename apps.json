@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-26T12:44:12.060Z",
+  "updatedAt": "2026-11-26T13:14:31.363Z",
   "launcher": {
     "version": "1.2.1",
     "url": "https://github.com/haejinps/auto-mct-tools/releases/download/launcher-v1.2.1/Haejin-NC-Tools-Setup-1.2.1.exe",
@@ -51,8 +51,8 @@
       "exe": "Auto FaceMill.exe",
       "version": "1.5.4",
       "url": "https://github.com/haejinps/auto-mct-tools/releases/download/facemill-v1.5.4/Auto-FaceMill-Setup-1.5.4.exe",
-      "sha256": "498057953ad96187ff5f586e5157f9ac4d89a6cf314822d85beeb6ed6a9513de",
-      "size": 9214063
+      "sha256": "c0d9a1492d8caa3c248c5cd68ae95535c2e042594fd62c030ac5d57bfd71bd73",
+      "size": 9215501
     },
     {
       "id": "drill",
@@ -64,8 +64,8 @@
       "exe": "Auto Drill.exe",
       "version": "1.5.3",
       "url": "https://github.com/haejinps/auto-mct-tools/releases/download/drill-v1.5.3/Auto-Drill-Setup-1.5.3.exe",
-      "sha256": "22bfd2c7d4f063723e4eeb59eb5d5adc25acb02a22a2e389c0287894fe6d91c3",
-      "size": 42509180
+      "sha256": "53aa938c6f55c19c9fd32c354059c6b52cf9102f8563154f366c5422b271c15a",
+      "size": 42504561
     }
   ]
 }
